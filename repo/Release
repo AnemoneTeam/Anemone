@@ -1,0 +1,7 @@
+Origin: Anemone Repo
+Label: Anemone Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Anemone iOS Theming Engine APT Repo
