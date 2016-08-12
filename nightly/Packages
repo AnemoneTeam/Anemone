@@ -1,5 +1,5 @@
 Package: com.anemonetheming.anemone
-Version: 1.1-366
+Version: 1.1-367
 Architecture: iphoneos-arm
 Maintainer: AnemoneTeam <info@anemonetheming.com>
 Installed-Size: 6372
@@ -7,10 +7,10 @@ Depends: firmware (>=6.0), mobilesubstrate, com.rpetrich.rocketbootstrap, pincru
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
 Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
 Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
-Filename: ./com.anemonetheming.anemone_1.1-366_iphoneos-arm.deb
-Size: 1797630
-MD5sum: 7b4100810cd5115a3c38e1effc72c457
-SHA1: 99ba634357487194aed27d91910cc45c58ff722d
+Filename: ./com.anemonetheming.anemone_1.1-367_iphoneos-arm.deb
+Size: 1794684
+MD5sum: 554cbf81d6fd9c5fbf4530d49b0f462d
+SHA1: 1d2a5f5759f8852b7d4df99dc57627b5c2650c32
 Section: Tweaks
 Description: An awesome theme manager!
 Author: AnemoneTeam <info@anemonetheming.com>
