@@ -1,16 +1,16 @@
 Package: com.anemonetheming.anemone
-Version: 1.1-386
+Version: 1.1-387
 Architecture: iphoneos-arm
 Maintainer: AnemoneTeam <info@anemonetheming.com>
-Installed-Size: 8512
+Installed-Size: 8516
 Depends: firmware (>=6.0), mobilesubstrate, com.rpetrich.rocketbootstrap, pincrush
 Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
-Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
-Filename: ./com.anemonetheming.anemone_1.1-386_iphoneos-arm.deb
-Size: 1851440
-MD5sum: ce9aa8f94726907b7fbe2616eeba08f1
-SHA1: 494dd76d3041e0c04b150c83c38b6e10f16298dd
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm, org.thebigboss.depthicons
+Filename: ./com.anemonetheming.anemone_1.1-387_iphoneos-arm.deb
+Size: 1854908
+MD5sum: d3a1176fe0ebb44bb646ee962acb02f8
+SHA1: 21faac9c3c81613387c4a2cbcf3179ddbb021600
 Section: Tweaks
 Description: An awesome theme manager!
 Author: AnemoneTeam <info@anemonetheming.com>
