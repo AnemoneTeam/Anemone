@@ -1,5 +1,5 @@
 Package: com.anemonetheming.anemone
-Version: 1.1-393
+Version: 1.1-394
 Architecture: iphoneos-arm
 Maintainer: AnemoneTeam <info@anemonetheming.com>
 Installed-Size: 8532
@@ -7,29 +7,10 @@ Depends: firmware (>=6.0), mobilesubstrate, com.rpetrich.rocketbootstrap, pincru
 Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
 Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm, org.thebigboss.depthicons
-Filename: ./com.anemonetheming.anemone_1.1-393_iphoneos-arm.deb
-Size: 1858872
-MD5sum: 7ae885b548725a280837b6215401a659
-SHA1: c1e9cddbf87685df55dd3196b4cb8f953a203812
-Section: Tweaks
-Description: An awesome theme manager!
-Author: AnemoneTeam <info@anemonetheming.com>
-Depiction: https://anemonetheming.com/nightly/anemone.html
-Name: Anemone
-
-Package: com.anemonetheming.anemone
-Version: 1.1-392
-Architecture: iphoneos-arm
-Maintainer: AnemoneTeam <info@anemonetheming.com>
-Installed-Size: 8532
-Depends: firmware (>=6.0), mobilesubstrate, com.rpetrich.rocketbootstrap, pincrush
-Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
-Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
-Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm, org.thebigboss.depthicons
-Filename: ./com.anemonetheming.anemone_1.1-392_iphoneos-arm.deb
-Size: 1859726
-MD5sum: d19a4b716678f2e2fb4b1d316ce5a74a
-SHA1: 87950f6db7f79824ba5b7c2050efc3e0331d09fc
+Filename: ./com.anemonetheming.anemone_1.1-394_iphoneos-arm.deb
+Size: 1859384
+MD5sum: 22a7725df6eda16bae65f6e3132c7213
+SHA1: 0ff8df4f491e4caf75089b30d73c53b6e91b0182
 Section: Tweaks
 Description: An awesome theme manager!
 Author: AnemoneTeam <info@anemonetheming.com>
