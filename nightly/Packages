@@ -2,7 +2,7 @@ Package: com.anemonetheming.anemone
 Version: 1.1-400
 Architecture: iphoneos-arm
 Maintainer: AnemoneTeam <info@anemonetheming.com>
-Installed-Size: 8532
+Installed-Size: 8516
 Depends: firmware (>=6.0), mobilesubstrate, com.rpetrich.rocketbootstrap, pincrush
 Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic, com.bytafont.bytafonttm
